@@ -1,0 +1,3 @@
+- [ ] Update src/__tests__/utils.test.js to calculate expected age based on current year
+- [ ] Implement currentAgeForBirthYear function in src/utils.js
+- [ ] Run npm test to verify
